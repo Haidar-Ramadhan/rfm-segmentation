@@ -1,5 +1,3 @@
-**Revisi yang gue sarankan:**
-
 ### Purpose of This Notebook
 
 Notebook ini bertujuan untuk menganalisis perilaku pelanggan menggunakan framework **RFM (Recency, Frequency, Monetary)**.
